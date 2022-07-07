@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    color: white;
+}
+.info{
+    color: rgba(255, 255, 255, 0.664);
+    position: relative;
+    padding-top: 1rem;
+}
+.gender{
+    padding-top: 2rem;
+    border-left: 3rem;
+}
+.yellow{
+    color: yellow;
+}
+.foods{
+    text-decoration: underline;
+    color: yellow;
+    font-size: large;
+    font-weight: bolder;
+}
+.submit{
+    position: relative;
+    width: 30%;
+    text-align: center;
+    font-weight: bolder;
+    font-size: larger;
+}
+.tbody td{
+  color: black;
+}
